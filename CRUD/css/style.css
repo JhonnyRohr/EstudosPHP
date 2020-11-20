@@ -1,0 +1,26 @@
+
+.form{
+    display: flex;
+    justify-content: center;
+    border: 1px;
+}
+
+.form-custom{
+    padding: 15px;
+    background-color: #F6F8FA;
+    border: 1px solid #b9b9b9;
+}
+
+.enviar{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-enviar{
+    width: 100px;
+    margin: 5px;
+}
+
+legend{
+    color: #5A6268;
+}

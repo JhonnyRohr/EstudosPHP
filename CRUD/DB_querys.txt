@@ -1,0 +1,9 @@
+CREATE DATABASE cadastro_formulario;
+
+CREATE TABLE cadastro(
+	id int(11) not null auto_increment,
+	nome varchar(255),
+	idade int,
+	uf char(2),
+	primary key(id)
+);
